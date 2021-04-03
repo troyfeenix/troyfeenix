@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @troyfeenix
 - 👀 I’m interested in living a better life today than I did yesterday
 - 🌱 I’m currently learning Java and Kotlin
-- 📫 Drop me a line if you have great life changing advice
+- 📫 Drop me a line if you have great life changing advice troy@feenix.com
 
 <!---
 troyfeenix/troyfeenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
