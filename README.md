@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @troyfeenix
 - 👀 I’m interested in living a better life today than I did yesterday
-- 🌱 I’m currently learning Java and Kotlin
+- 🌱 I’m currently learning Java, Python, and Kotlin
 - 📫 Drop me a line if you have great life changing advice
 
 <!---
